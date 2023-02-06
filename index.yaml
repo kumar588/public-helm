@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cp-keys:
+  - apiVersion: v1
+    appVersion: 1.5.56-SNAPSHOT
+    created: "2023-02-06T13:02:21.6288953+02:00"
+    description: A Helm chart for deploying all required EKS config for a microservice
+    digest: 52806102ffa7eaf1315c84688f9dc8236701f59671798b8bfbb28df64f7ba672
+    name: cp-keys
+    urls:
+    - cp-keys-1.5.56-SNAPSHOT.tgz
+    version: 1.5.56-SNAPSHOT
+generated: "2023-02-06T13:02:21.6260032+02:00"
